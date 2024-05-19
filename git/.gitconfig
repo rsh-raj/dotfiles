@@ -1,0 +1,9 @@
+[user]
+	name = Rishi Raj
+	email = rishiraj45035@gmail.com
+[credential]
+	helper = cache
+[push]
+	default = current
+[core]
+	editor = nano
